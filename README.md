@@ -45,8 +45,3 @@ The project demonstrates the effectiveness of deep learning models, especially L
 - `statsmodels` (for ARIMA)
 - `tensorflow` (for deep learning models)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HonestOxry/stock-forecasting.git
